@@ -1,5 +1,5 @@
 # CrudRestHRFunzionante
-versione attualmente senza errori, ma manca la parte del dao 
+versione attualmente senza errori, ma manca la parte del dao cercare di vedere come fare per farlo funzionare e utilizzarlo con postman e insomnia 
 
     static {
         initEmps();
@@ -15,4 +15,4 @@ versione attualmente senza errori, ma manca la parte del dao
         empMap.put(emp3.getEmpNo(), emp3);
     }
     
-    cercare di vedere come fare per farlo funzionare e utilizzarlo con postman e insomnia 
+    
